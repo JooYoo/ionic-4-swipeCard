@@ -1,0 +1,7 @@
+{
+  "name": "fourGeSwipeCard",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
