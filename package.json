@@ -29,6 +29,7 @@
     "ng2-swipe-cards": "^1.1.1",
     "rxjs": "6.2.2",
     "rxjs-compat": "^6.3.3",
+    "webpack-dev-server": "^3.1.14",
     "zone.js": "^0.8.26"
   },
   "devDependencies": {
